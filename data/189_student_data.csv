@@ -1,0 +1,207 @@
+data_sharing?,fluency,189_excitement,seat_comfort,ucsd_year,ucsd_major,credits,hr_reading,hr_activity,hr_online,year_3
+Yes,Python,Slightly excited,Pretty good,3,Data Science,20.0,2.0,2.0,6.0,1
+Yes,R,Very excited,Meh,3,Social Sciences,20.0,0.0,0.0,2.0,1
+Yes,Other,Slightly excited,Meh,3,Physical Sciences,16.0,0.0,1.0,4.0,1
+Yes,Python,Very excited,Meh,3,Social Sciences,20.0,2.0,2.0,4.0,1
+Yes,MATLAB,Slightly excited,Awful,3,Engineering,17.0,1.0,1.0,3.0,1
+Yes,Python,Very excited,Awful,4,Social Sciences,20.0,0.0,1.0,4.0,0
+Yes,Python,Not at all excited,Awful,4,Arts & Humanities,18.0,2.0,0.0,7.0,0
+Yes,Python,Slightly excited,Meh,4,Engineering,12.0,2.0,2.0,7.0,0
+Yes,Python,Very excited,Meh,2,Physical Sciences,26.0,0.1,2.0,5.0,0
+Yes,Python,Very excited,Pretty good,3,Data Science,16.0,1.0,7.0,10.0,1
+Yes,Python,Slightly excited,Bad,3,Data Science,16.0,0.0,2.0,5.0,1
+Yes,Python,Very excited,Awful,3,Data Science,25.0,2.0,2.0,6.0,1
+Yes,Other,Very excited,Meh,3,Physical Sciences,16.0,0.0,0.0,3.0,1
+Yes,Python,Slightly excited,Bad,4,Biological Sciences,20.0,0.5,1.5,3.0,0
+Yes,Python,Slightly excited,Meh,3,Social Sciences,21.0,0.0,1.0,4.0,1
+Yes,Python,Slightly excited,Awful,3,Physical Sciences,18.0,0.0,1.0,3.0,1
+Yes,Python,Very excited,Meh,4,Engineering,16.0,0.0,2.0,3.0,0
+Yes,Python,Slightly excited,Meh,4,Data Science,12.0,1.0,3.0,4.0,0
+Yes,Python,Slightly excited,Pretty good,3,Data Science,16.0,0.0,2.0,3.0,1
+Yes,Python,Very excited,Meh,3,Physical Sciences,16.0,1.0,1.0,5.0,1
+Yes,Python,Very excited,Meh,3,Health Sciences,20.0,1.0,1.0,2.0,1
+Yes,Python,Slightly excited,Pretty good,4,Engineering,16.0,1.0,2.0,2.0,0
+Yes,Python,Very excited,Awful,3,Social Sciences,14.0,3.0,1.0,1.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,0.0,2.5,4.0,1
+Yes,Python,Slightly excited,Bad,3,Data Science,12.0,0.0,2.0,4.0,1
+Yes,Python,Not at all excited,Awful,3,Data Science,16.0,20.0,0.5,2.0,1
+Yes,Python,Slightly excited,Meh,2,Data Science,22.0,2.0,0.5,5.0,0
+Yes,Python,Very excited,Meh,3,Data Science,12.0,1.0,3.0,3.0,1
+Yes,Python,Very excited,Pretty good,3,Data Science,12.0,0.0,2.0,1.0,1
+Yes,Python,Slightly excited,Meh,4,Social Sciences,16.0,0.0,0.0,24.0,0
+Yes,Python,Slightly excited,Meh,3,Social Sciences,22.0,1.0,0.5,3.0,1
+Yes,Python,Very excited,Awful,4,Data Science,12.0,0.0,1.0,1.0,0
+Yes,Python,Not at all excited,Awful,4,Engineering,20.0,10.0,3.0,7.0,0
+Yes,Python,Super stoked,Bad,4,Physical Sciences,20.0,1.5,3.0,3.0,0
+Yes,Other,Slightly excited,Meh,3,Physical Sciences,20.0,0.0,2.0,3.0,1
+Yes,R,Very excited,Pretty good,3,Engineering,18.0,2.0,1.0,3.0,1
+Yes,Python,Not at all excited,Bad,3,Data Science,16.0,3.0,0.5,4.0,1
+Yes,Python,Not at all excited,Awful,4,Data Science,12.0,1.0,2.0,5.0,0
+Yes,Python,Slightly excited,Meh,4,Engineering,12.0,1.0,0.0,4.0,0
+Yes,Python,Slightly excited,Bad,3,Data Science,16.0,5.0,5.0,2.0,1
+Yes,Other,Slightly excited,Bad,3,Social Sciences,12.0,0.0,0.0,4.0,1
+Yes,Python,Very excited,Bad,4,Physical Sciences,24.0,1.0,0.0,1.0,0
+Yes,Python,Very excited,Pretty good,3,Physical Sciences,20.0,4.0,4.0,3.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,0.0,1.5,3.0,1
+Yes,Python,Slightly excited,Meh,4,Data Science,20.0,3.0,1.0,0.5,0
+Yes,Python,Slightly excited,Meh,4,Engineering,20.0,1.0,1.0,8.0,0
+Yes,Python,Not at all excited,Bad,4,Social Sciences,12.0,1.0,1.0,5.0,0
+Yes,Python,Very excited,Super comfy,4,Physical Sciences,12.0,7.0,5.0,2.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,20.0,0.0,1.0,5.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,4.0,2.0,2.0,1
+Yes,Python,Slightly excited,Meh,3,Physical Sciences,18.0,0.0,1.0,2.0,1
+Yes,Python,Slightly excited,Awful,3,Social Sciences,20.0,0.5,1.5,3.0,1
+Yes,Python,Very excited,Awful,3,Engineering,20.0,2.0,2.0,5.0,1
+Yes,Python,Very excited,Pretty good,3,Social Sciences,16.0,1.0,1.0,2.0,1
+Yes,Python,Very excited,Meh,4,Physical Sciences,16.0,3.0,2.0,4.0,0
+Yes,Other,Very excited,Meh,3,Data Science,16.0,0.0,0.0,4.0,1
+Yes,Python,Very excited,Pretty good,2,Engineering,16.0,6.0,4.0,1.0,0
+Yes,Python,Very excited,Meh,3,Data Science,16.0,0.0,2.0,7.0,1
+Yes,Python,Super stoked,Pretty good,4,Biological Sciences,16.0,0.0,1.0,1.0,0
+Yes,Python,Slightly excited,Awful,4,Physical Sciences,16.0,2.0,2.0,7.0,0
+Yes,Python,Super stoked,Pretty good,4,Arts & Humanities,16.0,1.0,2.0,2.0,0
+Yes,Python,Slightly excited,Meh,2,Physical Sciences,20.0,0.0,1.0,2.0,0
+Yes,Python,Very excited,Awful,4,Engineering,12.0,0.0,1.0,10.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,17.0,2.0,0.0,3.0,1
+Yes,Python,Very excited,Awful,3,Social Sciences,20.0,1.0,1.0,5.0,1
+Yes,Python,Very excited,Bad,4,Data Science,20.0,0.0,2.0,2.0,0
+Yes,Python,Slightly excited,Awful,4,Data Science,16.0,2.0,2.0,7.0,0
+Yes,Python,Slightly excited,Awful,3,Engineering,18.0,0.0,2.0,5.0,1
+Yes,Python,Not at all excited,Awful,4,Physical Sciences,16.0,0.0,1.0,2.0,0
+Yes,R,Slightly excited,Meh,3,Physical Sciences,23.0,0.0,2.0,2.0,1
+Yes,Other,Slightly excited,Super comfy,4,Engineering,8.0,0.5,1.0,1.5,0
+Yes,Other,Super stoked,Awful,4,Physical Sciences,12.0,1.0,1.0,1.0,0
+Yes,Python,Slightly excited,Bad,3,Social Sciences,16.0,0.5,1.0,3.0,1
+Yes,Python,Super stoked,Pretty good,4,Physical Sciences,16.0,2.0,2.0,3.0,0
+Yes,Other,Slightly excited,Meh,4,Physical Sciences,12.0,2.0,2.0,6.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,0.25,1.5,5.0,1
+Yes,Python,Slightly excited,Meh,1,Data Science,20.0,3.0,1.0,0.0,0
+Yes,Python,Super stoked,Bad,3,Data Science,16.0,2.0,3.0,6.0,1
+Yes,Python,Slightly excited,Meh,3,Physical Sciences,16.0,1.0,2.0,2.0,1
+Yes,Python,Very excited,Meh,>4,Engineering,12.0,3.0,2.0,6.0,0
+Yes,Python,Super stoked,Meh,4,Engineering,16.0,2.0,2.0,2.0,0
+Yes,Python,Slightly excited,Bad,4,Social Sciences,16.0,0.5,1.0,2.0,0
+Yes,Python,Slightly excited,Awful,4,Social Sciences,16.0,0.0,0.0,15.0,0
+Yes,Python,Slightly excited,Bad,4,Data Science,8.0,0.0,1.0,10.0,0
+Yes,Python,Very excited,Meh,4,Data Science,16.0,0.0,2.0,2.0,0
+Yes,Python,Slightly excited,Meh,4,Physical Sciences,24.0,0.5,1.0,2.0,0
+Yes,Other,Slightly excited,Meh,4,Physical Sciences,20.0,1.0,0.5,1.0,0
+Yes,Python,Super stoked,Meh,3,Physical Sciences,20.0,0.5,0.0,3.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,14.0,0.0,2.0,8.0,1
+Yes,Python,Slightly excited,Bad,4,Data Science,16.0,2.0,1.0,5.0,0
+Yes,Python,Slightly excited,Pretty good,4,Data Science,4.0,1.0,1.0,10.0,0
+Yes,Python,Slightly excited,Meh,4,Physical Sciences,16.0,2.0,4.0,7.0,0
+Yes,Python,Very excited,Meh,3,Data Science,16.0,0.0,2.0,4.0,1
+Yes,Python,Slightly excited,Awful,3,Physical Sciences,16.0,0.0,1.0,7.0,1
+Yes,Python,Slightly excited,Bad,3,Data Science,21.0,0.0,0.0,0.0,1
+Yes,Python,Very excited,Meh,>4,Data Science,20.0,2.0,2.0,8.0,0
+Yes,Python,Very excited,Meh,3,Social Sciences,16.0,1.0,0.5,3.0,1
+Yes,Python,Not at all excited,Bad,>4,Data Science,16.0,8.0,0.0,0.0,0
+Yes,Python,Very excited,Pretty good,4,Physical Sciences,16.0,0.0,1.5,4.0,0
+Yes,MATLAB,Slightly excited,Awful,3,Data Science,20.0,0.0,1.0,4.0,1
+Yes,Python,Very excited,Meh,3,Physical Sciences,16.0,3.0,1.0,1.0,1
+Yes,Python,Super stoked,Meh,4,Physical Sciences,20.0,0.25,1.25,3.0,0
+Yes,Python,Slightly excited,Meh,2,Data Science,22.0,0.0,0.0,9.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,12.0,1.0,2.0,1.0,1
+Yes,Python,Slightly excited,Meh,3,Engineering,16.0,0.0,2.0,4.0,1
+Yes,Python,Slightly excited,Meh,2,Social Sciences,16.0,0.0,1.5,3.0,0
+Yes,Python,Slightly excited,Bad,3,Data Science,12.0,0.0,1.0,2.0,1
+Yes,Python,Slightly excited,Meh,4,Social Sciences,8.0,0.25,0.5,2.0,0
+Yes,Python,Slightly excited,Awful,3,Data Science,16.0,0.0,2.0,6.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,0.0,2.0,3.0,1
+Yes,Python,Very excited,Meh,3,Data Science,12.0,0.5,0.5,2.0,1
+Yes,Other,Very excited,Awful,4,Engineering,16.0,2.0,3.0,2.0,0
+Yes,Python,Not at all excited,Awful,3,Data Science,12.0,0.0,1.0,1.0,1
+Yes,Python,Slightly excited,Awful,4,Engineering,16.0,0.0,1.0,8.0,0
+Yes,MATLAB,Very excited,Meh,3,Biological Sciences,32.0,2.0,1.0,1.0,1
+Yes,Python,Very excited,Pretty good,4,Engineering,12.0,2.0,4.0,6.0,0
+Yes,Python,Very excited,Awful,4,Engineering,16.0,2.0,2.0,4.0,0
+Yes,Other,Slightly excited,Meh,2,Data Science,22.0,0.0,1.0,1.5,0
+Yes,Python,Slightly excited,Awful,3,Data Science,16.0,1.0,2.0,2.0,1
+Yes,Python,Very excited,Meh,3,Data Science,20.0,1.0,0.0,2.0,1
+Yes,Python,Slightly excited,Bad,4,Arts & Humanities,24.0,0.5,0.5,1.0,0
+Yes,Python,Slightly excited,Meh,3,Social Sciences,20.0,0.0,0.0,2.0,1
+Yes,Python,Not at all excited,Awful,3,Data Science,16.0,1.0,1.0,1.0,1
+Yes,Other,Very excited,Bad,3,Data Science,12.0,0.0,1.0,3.0,1
+Yes,Python,Slightly excited,Bad,4,Data Science,12.0,0.0,0.0,5.0,0
+Yes,Python,Slightly excited,Bad,3,Data Science,16.0,0.0,1.0,3.0,1
+Yes,Python,Very excited,Bad,3,Data Science,16.0,1.0,1.0,2.0,1
+Yes,Python,Very excited,Bad,3,Engineering,22.0,1.0,2.0,2.0,1
+Yes,Python,Not at all excited,Meh,3,Data Science,18.0,0.0,1.0,3.0,1
+Yes,Python,Very excited,Pretty good,3,Social Sciences,22.0,1.0,1.0,3.0,1
+Yes,Python,Super stoked,Bad,3,Physical Sciences,18.0,2.0,1.0,5.0,1
+Yes,Python,Slightly excited,Awful,3,Data Science,16.0,0.5,2.0,3.0,1
+Yes,Python,Slightly excited,Meh,2,Physical Sciences,20.0,1.0,1.0,4.0,0
+Yes,R,Very excited,Bad,>4,Physical Sciences,16.0,0.0,1.0,3.0,0
+Yes,Other,Slightly excited,Meh,3,Data Science,16.0,0.5,1.0,1.0,1
+Yes,MATLAB,Slightly excited,Meh,4,Engineering,20.0,4.0,2.0,4.0,0
+Yes,Python,Slightly excited,Meh,2,Data Science,12.0,0.0,2.0,7.0,0
+Yes,Python,Slightly excited,Bad,2,Data Science,28.0,0.0,0.5,0.5,0
+Yes,Python,Slightly excited,Meh,3,Physical Sciences,18.0,0.0,0.0,3.0,1
+Yes,Python,Not at all excited,Awful,3,Data Science,20.0,0.0,1.0,2.0,1
+Yes,Python,Slightly excited,Meh,4,Physical Sciences,22.0,0.0,1.0,4.0,0
+Yes,Python,Very excited,Meh,4,Engineering,8.0,2.0,2.0,2.0,0
+Yes,R,Very excited,Pretty good,4,Physical Sciences,14.0,1.0,2.0,5.0,0
+Yes,Python,Slightly excited,Bad,3,Data Science,16.0,2.0,2.0,4.0,1
+Yes,Python,Slightly excited,Awful,3,Data Science,12.0,0.0,1.0,10.0,1
+Yes,Python,Slightly excited,Meh,>4,Physical Sciences,12.0,1.0,2.0,5.0,0
+Yes,Python,Super stoked,Bad,3,Physical Sciences,20.0,2.0,1.0,1.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,26.0,0.0,0.5,4.0,1
+Yes,Python,Very excited,Meh,3,Data Science,16.0,0.1,0.0,1.0,1
+Yes,Python,Super stoked,Super comfy,2,Data Science,0.0,0.0,0.0,0.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,0.0,1.0,3.0,1
+Yes,Python,Super stoked,Bad,4,Physical Sciences,12.0,1.0,1.0,2.0,0
+Yes,Python,Very excited,Meh,4,Data Science,16.0,1.0,0.5,2.0,0
+Yes,Python,Slightly excited,Awful,3,Physical Sciences,24.0,0.0,1.0,2.0,1
+Yes,Python,Very excited,Bad,4,Physical Sciences,20.0,0.0,30.0,0.0,0
+Yes,Python,Slightly excited,Meh,3,Social Sciences,16.0,0.5,0.5,1.0,1
+Yes,Python,Slightly excited,Meh,3,Physical Sciences,20.0,1.0,1.0,4.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,12.0,1.0,1.0,1.0,1
+Yes,Python,Slightly excited,Awful,3,Engineering,18.0,0.0,1.0,1.0,1
+Yes,Python,Super stoked,Meh,4,Physical Sciences,16.0,4.0,10.0,12.0,0
+Yes,Python,Slightly excited,Awful,3,Data Science,16.0,1.0,0.0,2.0,1
+Yes,Python,Slightly excited,Awful,4,Engineering,16.0,0.0,5.0,24.0,0
+Yes,Python,Not at all excited,Meh,3,Engineering,16.0,0.0,0.0,18.0,1
+Yes,Python,Super stoked,Awful,>4,Physical Sciences,27.0,0.0,3.0,5.0,0
+Yes,Python,Slightly excited,Meh,4,Engineering,20.0,20.0,4.0,5.0,0
+Yes,Python,Very excited,Awful,3,Engineering,16.0,2.0,2.0,1.0,1
+Yes,Python,Very excited,Meh,3,Data Science,12.0,0.0,1.0,6.0,1
+Yes,Python,Slightly excited,Meh,4,Engineering,20.0,2.0,1.0,2.0,0
+Yes,MATLAB,Slightly excited,Meh,>4,Data Science,16.0,0.0,1.0,8.0,0
+Yes,Python,Very excited,Awful,>4,Engineering,16.0,1.0,2.0,6.0,0
+Yes,Python,Very excited,Bad,4,Social Sciences,20.0,0.0,1.0,2.0,0
+Yes,Python,Very excited,Pretty good,2,Physical Sciences,14.0,0.5,0.5,4.0,0
+Yes,Other,Very excited,Pretty good,4,Engineering,20.0,0.0,0.0,14.0,0
+Yes,Python,Very excited,Bad,3,Data Science,20.0,1.0,1.0,2.0,1
+Yes,Python,Super stoked,Bad,4,Social Sciences,16.0,0.0,1.0,3.0,0
+Yes,Other,Very excited,Pretty good,4,Engineering,20.0,0.0,2.0,2.0,0
+Yes,Python,Not at all excited,Meh,2,Data Science,16.0,1.0,1.0,7.0,0
+Yes,Python,Slightly excited,Bad,3,Physical Sciences,14.0,1.0,1.0,4.0,1
+Yes,Python,Not at all excited,Bad,4,Data Science,16.0,0.0,1.0,5.0,0
+Yes,Python,Super stoked,Bad,4,Data Science,16.0,0.2,2.0,3.0,0
+Yes,Python,Slightly excited,Meh,4,Data Science,17.0,15.0,2.5,1.0,0
+Yes,Python,Slightly excited,Awful,3,Physical Sciences,20.0,0.0,2.0,2.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,12.0,4.0,0.0,8.0,1
+Yes,Python,Very excited,Meh,4,Arts & Humanities,16.0,1.0,1.0,1.0,0
+Yes,Python,Very excited,Meh,3,Social Sciences,16.0,2.0,2.0,2.0,1
+Yes,Python,Slightly excited,Pretty good,3,Data Science,16.0,3.0,1.0,2.0,1
+Yes,Python,Very excited,Meh,4,Engineering,16.0,1.0,1.0,3.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,2.0,1.0,7.0,1
+Yes,MATLAB,Super stoked,Pretty good,4,Social Sciences,28.0,5.0,1.5,3.0,0
+Yes,Python,Very excited,Meh,3,Data Science,16.0,1.0,0.0,2.0,1
+Yes,Python,Very excited,Meh,3,Data Science,12.0,1.0,2.0,4.0,1
+Yes,Python,Very excited,Bad,2,Data Science,16.0,1.0,2.0,2.0,0
+Yes,Python,Not at all excited,Meh,3,Data Science,16.0,0.0,0.0,8.0,1
+Yes,Other,Very excited,Bad,3,Physical Sciences,18.0,0.0,2.0,3.0,1
+Yes,R,Slightly excited,Meh,3,Physical Sciences,16.0,2.0,1.0,2.0,1
+Yes,Python,Very excited,Meh,2,Data Science,16.0,2.0,1.0,2.0,0
+Yes,Python,Very excited,Meh,3,Data Science,20.0,0.0,2.0,6.0,1
+Yes,Python,Slightly excited,Meh,4,Physical Sciences,12.0,1.0,1.0,3.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,20.0,1.0,1.0,5.0,1
+Yes,Python,Very excited,Meh,3,Data Science,16.0,0.5,1.0,3.0,1
+Yes,Python,Very excited,Meh,3,Data Science,16.0,0.5,0.0,0.5,1
+Yes,Python,Very excited,Bad,4,Physical Sciences,12.0,1.0,1.0,1.0,0
+Yes,Python,Slightly excited,Meh,3,Data Science,16.0,0.0,1.0,3.0,1
+Yes,Python,Slightly excited,Meh,3,Data Science,20.0,0.0,1.0,1.0,1
+Yes,Python,Very excited,Meh,3,Data Science,20.0,0.5,0.5,4.0,1
+Yes,Python,Not at all excited,Meh,4,Physical Sciences,19.0,0.0,2.0,9.0,0
